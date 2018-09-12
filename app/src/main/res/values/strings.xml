@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="lagos">Lagos</string>
+    <string name="anambra">Anambra</string>
+    <string name="abuja">Abuja</string>
+    <string name="tour_guide">Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lagos">LagosActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="lagos_details"> "Lagos (Yoruba: Èkó) is a city in the Nigerian state of Lagos. The city, with its adjoining conurbation, is the most populous in Nigeria, and the most populous on the African continent. It is one of the fastest growing cities in the world and also one of the most populous urban agglomerations. Lagos is a major financial centre in Africa; the megacity has the highest GDP, and also houses one of the largest and busiest ports on the continent.
+
+Lagos initially emerged as a port city that originated on a collection of islands, which are contained in the present day Local Government Areas (LGAs) of Lagos Island, Eti-Osa, Amuwo-Odofin and Apapa; the islands are separated by creeks, fringing the southwest mouth of Lagos Lagoon, while protected from the Atlantic Ocean by barrier islands and long sand spits such as Bar Beach, which stretch up to 100 km (60 mi) east and west of the mouth. Due to rapid urbanization, the city expanded to the west of the lagoon to include areas in the present day Lagos Mainland, Ajeromi-Ifelodun and Surulere. This led to the classification of Lagos into two main areas - the Island, which was the initial city of Lagos, before it expanded into the area known as the Mainland. This city area was governed directly by the Federal Government through the Lagos City Council, until the creation of Lagos State in 1967, which led to the splitting of Lagos city into the present day seven Local Government Areas (LGAs), and an addition of other towns (which now make up 13 LGAs) from the then Western Region, to form the state.
+
+Lagos, the capital of Nigeria since its amalgamation in 1914, went on to become the capital of Lagos State after its creation. However, the state capital was later moved to Ikeja in 1976, and the federal capital moved to Abuja in 1991. Even though Lagos is still widely referred to as a city, the present day Lagos, also known as "Metropolitan Lagos", and officially as "Lagos Metropolitan Area" is an urban agglomeration or conurbation, consisting of 20 LGAs,32 LCDAs including Ikeja, the state capital of Lagos State. This conurbation makes up 37% of Lagos State's total land area, but houses about 85% of the state's total population.
+
+The exact population of Metropolitan Lagos is disputed. In the 2006 federal census data, the conurbation had a population of about 8 million people". However, the figure was disputed by the Lagos State Government, which later released its own population data, putting the population of Lagos Metropolitan Area at approximately 16 million. As at 2015, unofficial figures put the population of "Greater Metropolitan Lagos", which includes Lagos and its surrounding metro area, extending as far as into Ogun State, at approximately 21 million." </string>
+
+    <string name="abuja_details">"Abuja (/əˈbuːdʒə/) is the capital city of Nigeria located in the centre of the country within the Federal Capital Territory (FCT). It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. Abuja's geography is defined by Aso Rock, a 400-metre (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court and much of the city extend to the south of the rock. Zuma Rock, a 792-metre (2,598 ft) monolith, lies just north of the city on the expressway to Kaduna.
+
+At the 2006 census, the city of Abuja had a population of 776,298, making it one of the ten most populous cities in Nigeria. According to the United Nations, Abuja grew by 139.7% between 2000 and 2010, making it the fastest growing city in the world. As of 2015, the city is experiencing an annual growth of at least 35%, retaining its position as the fastest-growing city on the African continent and one of the fastest-growing in the world. As at 2016, the metropolitan area of Abuja is estimated at six million persons, placing it behind only Lagos, as the most populous metro area in Nigeria.
+
+Major religious sites include the Nigerian National Mosque and the Nigerian National Christian Centre. The city is served by the Nnamdi Azikiwe International Airport. Abuja is known for being one of the few purpose-built capital cities in Africa, as well as being one of the wealthiest.
+
+Abuja is Nigeria's administrative and political centre. It is also a key capital on the African continent due to Nigeria's geo-political influence in regional affairs. Abuja is also a conference centre and hosts various meetings annually, such as the 2003 Commonwealth Heads of Government meeting and the 2014 World Economic Forum (Africa) meetings."</string>
+
+    <string name="anambra_details">"
+Anambra is a state in southeastern Nigeria. Its name is an anglicized version of the original Oma Mbala, the Igbo name of the Anambra River. The capital and seat of government is Awka. Onitsha, a historic port city from pre-colonial times, has developed as by far the largest urban area in the state. The state's theme is "Light of the nation".
+
+Boundaries are formed by Delta State to the west, Imo State and Rivers State to the south, Enugu State to the east, and Kogi State to the north. The name was derived from the Anambra River (Omambala)m which flows through the area and is a tributary of the River Niger.
+The indigenous ethnic groups in Anambra state are the Igbo (98% of population) and a small population of Igala (2% of the population), who live mainly in the north-western part of the state.
+
+Anambra is the eighth-most populated state in the Federal Republic of Nigeria and the second-most densely populated state in Nigeria after Lagos State. The stretch of more than 45 km between the towns of Oba and Amorka contains a cluster of numerous thickly populated villages and small towns, giving the area an estimated average density of 1,500–2,000 persons per square kilometre.
+
+Anambra is rich in natural gas, crude oil, bauxite, and ceramic. It has an almost 100 percent arable soil.
+Anambra state has many other resources in terms of agro-based activities such as fisheries and farming, as well as land cultivated for pasturing and animal husbandry.
+It has the lowest poverty rate in Nigeria.
+Agulu Crocodile Lake is located along Awka road in Agulu, Anaocha Local Government Area of the state. A potential tourist site, it is home to an estimated three hundred crocodiles and water turtles. Fishing is not allowed on the lake. As the crocodiles are considered sacred animals, they cannot be killed. Legend says that these crocodiles were instrumental in delivering the town from enemy soldiers during the Nigerian civil war. It is believed that these sacred crocodiles and turtles transformed themselves into beautiful ladies and lured the soldiers unawares into the lake, where they disappeared without trace. At noon the crocodiles and the turtles appear at the banks of the lake to take in sunlight.
+
+Ogbunike Caves, listed by UNESCO[10] as a World Heritage Site, is one of the most visited tourist sites in Anambra State. It is classified as a Sandstone cave (Lateritic sandstones of Campanian-Miocene age).[11] It has very scenic vegetation with an attractive waterfall. It is situated in the Ogba hills Ogbunike, across the Ugwu-Aga Escarpment Umunya by the Enugu/Onitsha Expressway, and lies in the coordinates of N06 11 11 and E06 54 21.
+
+
+Ornamental staff head in form of a coiled snake, 9th-century bronze, Igbo-Ukwu, Anambra State
+Igbo Ukwu Museum:[12] Igbo Ukwu is an ancient town known for its astonishing metalcrafts; it continues to attract tourists to see its bronze artifacts. First noticed in 1938, the bronzes were later excavated by Thurstan Shaw (an English archaeologist). They have been dated to the 9th century, and are of high value and historic relevance.
+Uzu-Oka: Awka is historically known for the great metal foundry, Uzu Craftmanship. Imo-Awka is an annual festival celebrated by the natives.
+
+Niger Bridge - Gateway into Anambra alt text
+Niger Bridge - Gateway into Anambra
+Other Anambra tourism potentials and cultural festivals include:
+
+Imo-Awka Festival of Awka. the biggest tourist show in Anambra; this is held annually starting in June–July.
+Ijele Masquerade- listed in the UNESCO Archives as an Intangible Cultural element.[13] The Ijele dance festival is home to the 'Olus' of the Omambala area: But actually originated from Umueri, other towns in includes Anaku, Omor, Nsugbe, Aguleri, Umueri, Awkuzu, Nteje, Ogbunike, Nkwelle-Ezunaka, Umunya, etc. But the origin of Ijele can be traced to Umueri community.
+Many towns celebrate the New Yam Festival, held after yam cultivation each July.
+
+Oke-ebo Umueri festival
+Otite, Anam New Yam Festival.
+Nzurani Anam Festival
+Achukwu Masquerade of Ekwulobia.
+Nwafor Festival at Ogidi and Ogbunike.
+Ekwulobia New Yam Festival.
+Omaba Yearly New-Yam Festival.
+Aguluzigbo New-Yam Festival
+Nnobi Afia oru festival
+Ozubulu New-yam festival
+Umueri New-yam festival
+Ozoebunu masquerade of Ozubulu
+Okija New-Yam Festival
+Mmanwu Okija Masquerade Dance
+Ihiala New -Yam Festival
+Igu Aro festival at Mmanoma Umueri
+Nanka New -Yam Festival.
+There are a variety of other traditional festivals and masquerades:
+
+Manwu Ihiala Masquerade Dance
+Ajana-Ukwu and Igu aro festivals at Aguleri.
+Akwuneche enyi masquerade of Omambala area: Anaku, Igbakwu, Aguleri, Umuleri, Awkuzu, Umunya, Owelle- Olumbanasa etc.
+Izaga masquerade of Omambala area: Anaku, Igbakwu, Aguleri, Umuleri, Awkuzu, Umunya, etc.
+Abele masquerade of Omambala area: Anaku, Igbakwu, Aguleri, Umueri, Awkuzu, Umunya, etc.
+Obele Masquerade of Owelle -Olumbanasa.
+Afia olu Festival in Nnewi.
+Ufala mmuo festival at Oba
+Ofala Eze of Owelle -Olumbanasa.
+Amanwulu and ozo Festivals at Aguleri, Anaku.
+Olili Obibia Eri (Eri Festival) in Enugwu Aguleri attracts thousands of visitors home and abroad annually.
+Uzoiyi Festival Umuoji attracts thousands of visitors annually.
+Ofala (Ovala) Festival commemorates the Kingship (Eze) and is celebrated by various towns. It was popularised by Onitsha town.
+Igu-Aro is the major kingship festival among the Umueri, Anaku and Aguleri.
+Nkpokiti Dance, Umunze is known for fantastic acrobatic performances.
+Obo Ofor Festival in Uga, Aguata local government area.
+Ayaka masquerade at Umuatuolu Umueri
+Nkwor Festival in Uga, Aguata local government area.
+Uku, an annual masquerade festival in Amanasaa Umuchu, Aguata local government area.
+Mkpluede Festival Isuaniocha
+ito-ogbo -80th birthday celebration by age grades [of obosi, idemili local government]
+Other attractions include the following geographic landmarks and cultural institutions:
+
+The River Niger at Onitsha and Asaba, with the famous Niger bridge, is the eastern gateway linking the South East with the Niger Delta and Western Nigeria.
+Agbanagbo Ezu-na-Omambala (Confluence of Ezu and Omabala rivers) at Aguleri
+Isi Ubi stone stream Umu-Opu, Umuatuolu Umueri
+Obu Gad at Enugwu Aguleri.
+Ini ERI (Eri Grave) at Aguleri
+Ini Iguedo (Iguedo Grave) at Nando.
+Odinani Museum at Nri.
+Dabawu ancestral abode of Eri at Ugume Umueri
+Agwuve Trinity Tree at Enugwu Aguleri
+Rogeny Tourist Village at Oba (a stadium that is equipped with recreational activities including a swimming pool, zoo, shrine, soccer stadium, etc./"</string>
+
+    <string name="national_theatre">"An architectural masterpiece and cultural landmark."</string>
+    <string name="tarkwa_bay">If you are looking for a quiet romantic time, you should visit
+    Tarkwa Bay Beach on a weekday.</string>
+    <string name="lekki_leisure">At Lekki leisure lake you can partake in thrilling adventurous
+    activities like quad biking, jet skiing, zip lining and much more.</string>
+    <string name="terra_kulture">The internationally acclaimed art house, Terra Kulture is the home of comtemporary visual
+    and theatre arts in Nigeria.</string>
+    <string name="ikeja_mall">You will not only be spoilt for choice of shops and the best meals, there
+    are fun centres for kids to play in as well as a cinema for you to enjoy some quality movie viewing.</string>
+    <string name="national">"National Theatre"</string>
+    <string name="tarkwa">"Tarkwa Bay Beach"</string>
+    <string name="lekki">"Lekki Leisure Lake"</string>
+    <string name="terra">"Terra Kulture"</string>
+    <string name="ikeja">"Ikeja City Mall"</string>
+
+    <string name="eko_name">"Eko Hotel $ Suites"</string>
+    <string name="eko_add">1415 Adetokunbo Street, Victoria Island </string>
+    <string name="eko_num">08067352413</string>
+    <string name="golden_name">Golden Tulip Hotel</string>
+    <string name="golden_add">2 Kehinde Street, Festac Town, Amuwo Odofin</string>
+    <string name="golden_num">09067665310</string>
+    <string name="southern_name">Southern Sun Hotel</string>
+    <string name="southern_add">47 Alfred Rewane Road, Ikoyi</string>
+    <string name="southern_phone">08123564770</string>
+    <string name="fg_name">F $ G Suites</string>
+    <string name="fg_add">7 Ade Avenue, Ilupeju</string>
+    <string name="fg_phone">07064649077</string>
+    <string name="lasal_name">Lasal Hotel</string>
+    <string name="lasal_add">45 MM Airport Road, Oshodi Isolo</string>
+    <string name="lasal_num">07089654421</string>
+    <string name="new_name">NewMoon Hotel</string>
+    <string name="new_add">11 Coker Road, Shasha</string>
+    <string name="new_num">0803586745</string>
+    <string name="peka_name">Peka Hotels Limited</string>
+    <string name="peka_add">4 Opebi road, Ikeja</string>
+    <string name="peka_num">08160232456</string>
+    <string name="pick_destination">Pick A Destination !!</string>
+
+    <string name="eke_awka_title">Eke Awka Market</string>
+    <string name="eke_awka">The largest market in the city of Awka. Eke Awka is named
+    after one of the Igbo market days.</string>
+    <string name="ogbunike_title">Ogbunike Cave</string>
+    <string name="ogbunike">It is situated in a valley blanketed by tropical rain forests
+    behind Ogba Hills. It was aplace where Africans hid from slave rading parties during
+    the slave trade era.</string>
+    <string name="all_saints_title">All Saints Cathedral</string>
+    <string name="all_saints">Grandeur and solemnity. If you are looking for a combination of these,
+    you'll find All Saints Cathedral soothing.</string>
+    <string name="onitsha_mall_title">Onitsha Mall</string>
+    <string name="onitsha_mall">Offering an option for every taste and budget; from international brands to
+     local retail stores.</string>
+    <string name="cofi_title">Cofi Lounge</string>
+    <string name="cofi">A trip to Awka, Anambra without popping into it\'s fun spot is lacking. If partying
+     is on your mind, this is the spot to start from. Cofi Lounge is an entertainment night club with
+    sophisticated luxury to suit your best taste.</string>
+    <string name="about">About</string>
+    <string name="attractions">attractions</string>
+    <string name="hotels">hotels</string>
+    <string name="abuja_guide">Abuja Guide</string>
+    <string name="anambra_guide">Anambra Guide</string>
+    <string name="lagos_guide">Lagos Guide</string>
+
+    <string name="millenium_title">Millenium Park</string>
+    <string name="millenium">It is the largest park in Abuja and it is within the Maitama District of
+    the city. It is located close to the nucleus of presidential and administrative buildings
+    in the city.</string>
+    <string name="abuja_arts_title">Abuja Arts And Crafts Village</string>
+    <string name="abuja_arts">With the Sheraton Hotel as a backdrop for the Art and Craft Village, it presents
+    you some of the opportunity to see and buy some of Nigeria\'s art and craft works that
+    represent the country\'s culture.</string>
+    <string name="zuma_title">hotels</string>
+    <string name="zuma">Zuma Rock is a large monolith, an igneous intrusion composing of gabro
+    granodiorite. It rises immediate right of Nigeria\'s capital, Abuja.</string>
+    <string name="arboretum_title">NAtional Arboretum</string>
+    <string name="arboretum">The Arboretum was established to play significant roles in the conservation of
+    genetic resources for research, educational, medicinal and other scientific purposes.</string>
+    <string name="mosque_title">National Mosque</string>
+    <string name="mosque">The mosque includes the office for the Islamic centre, a conference centre
+    capable of serving 500 persons and the residential facilities for the imam and muezzin.</string>
+
+</resources>
